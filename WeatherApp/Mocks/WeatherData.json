@@ -1,0 +1,42 @@
+{
+    "coord":{
+        "lon":77.67,
+        "lat":12.93
+    },
+    "weather":[
+               {
+               "id":500,
+               "main":"Rain",
+               "description":"light rain",
+               "icon":"10n"
+               }
+               ],
+    "base":"stations",
+    "main":{
+        "temp":23.59,
+        "pressure":1017,
+        "humidity":100,
+        "temp_min":22,
+        "temp_max":25
+    },
+    "visibility":6000,
+    "wind":{
+        "speed":1
+    },
+    "clouds":{
+        "all":75
+    },
+    "dt":1536679800,
+    "sys":{
+        "type":1,
+        "id":7823,
+        "message":0.0051,
+        "country":"IN",
+        "sunrise":1536626306,
+        "sunset":1536670381
+    },
+    "id":1277333,
+    "name":"Bangalore",
+    "cod":200
+}
+
